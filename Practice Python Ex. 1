@@ -1,0 +1,4 @@
+name = input("Name: ")
+age = input("Age: ")
+AgeAt100 = (2017 - int(age) + 100)
+print(name + " will be 100 years old in the year " + str(AgeAt100))
